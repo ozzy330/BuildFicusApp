@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f93859b.css",
+    "main.js": "/static/js/main.b301c683.js",
+    "static/js/787.5d5d08af.chunk.js": "/static/js/787.5d5d08af.chunk.js",
+    "static/media/Logotipo.png": "/static/media/Logotipo.8c298e56dfa4c2c4ce7b.png",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.5f93859b.css.map": "/static/css/main.5f93859b.css.map",
+    "main.b301c683.js.map": "/static/js/main.b301c683.js.map",
+    "787.5d5d08af.chunk.js.map": "/static/js/787.5d5d08af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f93859b.css",
+    "static/js/main.b301c683.js"
+  ]
+}
